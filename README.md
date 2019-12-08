@@ -1,0 +1,2 @@
+# mypage
+a start page
